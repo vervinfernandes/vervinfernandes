@@ -1,5 +1,5 @@
-<h1 align="center">Hi! My name is Vervin Fernandes</h1>
-<h3 align="center">I am currently a Computer Engineering student at the University of Illinois at Urbana-Champaign</h3>
+<h1 align="center">Hi! I'm Vervin Fernandes</h1>
+<h3 align="center">Currently a Computer Engineering student at the University of Illinois at Urbana-Champaign</h3>
 
 - 🌱 I’m currently learning ... **React/TailwindCSS, Tensorflow/OpenCV, AWS**
   
