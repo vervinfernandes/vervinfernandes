@@ -3,29 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vervinfernandes&label=Profile%20views&color=b1dd8b&style=flat" alt="vervinfernandes" /> </p>
 
-- 🔭 I’m currently working on [Project Name](https://www.bing.com/search?q=project%20name)
+- 🔭 I’m currently working on [My personal website](https://www.bing.com/search?q=project%20name)
 
-- 🌱 I’m currently learning **Frameworks courses**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on [Project name](https://www.bing.com/search?q=project%20name)
+- 👯 I’m looking to collaborate on [Startups](https://www.bing.com/search?q=project%20name)
 
-- 🤝 I’m looking for help with [Project name](https://www.bing.com/search?q=project%20name)
+- 👨‍💻 All of my projects are available on [my personal website](https://vervinfernandes.github.io/personal-website/)
 
-- 👨‍💻 All of my projects are available at [https://www.bing.com/search?q=portfolio%20link](https://www.bing.com/search?q=portfolio%20link)
-
-- 📝 I regularly write articles on [https://www.bing.com/search?q=blog%20link](https://www.bing.com/search?q=blog%20link)
-
-- 💬 Ask me about **React, due, guap**
+- 💬 Ask me about **Robotics, Drones, and Cheesecake**
 
 - 📫 How to reach me **vbf2@illinois.edu**
-
-- 📄 Know about my experiences [https://www.bing.com/search?q=resume%20link](https://www.bing.com/search?q=resume%20link)
-
-- ⚡ Fun fact **I think I’m funny**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
