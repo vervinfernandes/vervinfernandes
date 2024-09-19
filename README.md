@@ -1,6 +1,21 @@
 <h1 align="center">Hi 👋, I'm Vervin Fernandes</h1>
 <h3 align="center">A Computer Engineering student studying at the University of Illinois Urbana-Champaign</h3>
 
+p align="left"> <img src="https://komarev.com/ghpvc/?username=vervinfernandes&label=Profile%20views&color=b1dd8b&style=flat" alt="vervinfernandes" /> </p>
+
+- 🔭 I’m currently working on [My personal website](https://vervinfernandes.github.io/personal-website/)
+
+- 🌱 I’m currently learning **Tensorflow, Verilog, AWS**
+
+- 👯 I’m looking to collaborate on [Startups](https://www.bing.com/search?q=make%20a%20startup%20today)
+
+- 👨‍💻 All of my projects are available on [my personal website](https://vervinfernandes.github.io/personal-website/)
+
+- 💬 Ask me about **Robotics, Drones, and Cheesecake**
+
+- 📫 How to reach me **vbf2@illinois.edu**
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vervin-fernandes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vervin-fernandes" height="30" width="40" /></a>
