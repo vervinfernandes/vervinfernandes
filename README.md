@@ -5,14 +5,13 @@
 <h3 align="center">A Computer Engineering student studying at the University of Illinois Urbana-Champaign</h3>
 
 <!-- Container for the two elements side by side -->
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
+<span style="display: flex; justify-content: space-between; align-items: center; gap: 20px; width: 100%;">
 
-  <!-- Profile Views and Bio (now on the left) -->
-  <div style="flex: 1;">
+  <!-- Profile Views and Bio (on the left) -->
+  <span style="flex: 1; display: block;">
     <p align="left">
       <img src="https://komarev.com/ghpvc/?username=vervinfernandes&label=Profile%20views&color=b1dd8b&style=flat" alt="vervinfernandes" />
     </p>
-
     <!-- Bio Content -->
     <ul>
       <li>🔭 I’m currently working on <a href="https://vervinfernandes.github.io/personal-website/">My personal website</a></li>
@@ -22,14 +21,16 @@
       <li>💬 Ask me about <strong>Robotics, Drones, and Cheesecake</strong></li>
       <li>📫 How to reach me <strong>vbf2@illinois.edu</strong></li>
     </ul>
-  </div>
+  </span>
 
-  <!-- GitHub Streak Stats Image (now on the right) -->
-  <p style="flex: 1;">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vervinfernandes&" alt="vervinfernandes" style="width: 100%; max-width: 300px; height: auto;" />
-  </p>
+  <!-- GitHub Streak Stats Image (on the right) -->
+  <span style="flex: 1; display: block;">
+    <p style="text-align: center;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vervinfernandes&" alt="vervinfernandes" style="width: 100%; max-width: 300px; height: auto;" />
+    </p>
+  </span>
 
-</div>
+</span>
 
 
 <h3 align="left">Connect with me:</h3>
