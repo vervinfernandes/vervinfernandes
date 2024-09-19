@@ -1,34 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vervin Fernandes</h1>
 <h3 align="center">A Computer Engineering student studying at the University of Illinois Urbana-Champaign</h3>
 
-<h1 align="center">Hi 👋, I'm Vervin Fernandes</h1>
-<h3 align="center">A Computer Engineering student studying at the University of Illinois Urbana-Champaign</h3>
-
-<!-- Container for the two elements side by side -->
-<table width="100%" style="border-collapse: collapse;">
-  <tr>
-    <!-- Profile Views and Bio (on the left) -->
-    <td style="width: 50%; vertical-align: top; text-align: left;">
-      <img src="https://komarev.com/ghpvc/?username=vervinfernandes&label=Profile%20views&color=b1dd8b&style=flat" alt="vervinfernandes" />
-      <ul>
-        <li>🔭 I’m currently working on [My personal website](https://vervinfernandes.github.io/personal-website/)</li>
-        <li>🌱 I’m currently learning **Tensorflow, Verilog, AWS**</li>
-        <li>👯 I’m looking to collaborate on [Startups](https://www.bing.com/search?q=make%20a%20startup%20today)</li>
-        <li>👨‍💻 All of my projects are available on [my personal website](https://vervinfernandes.github.io/personal-website/)</li>
-        <li>💬 Ask me about **Robotics, Drones, and Cheesecake**</li>
-        <li>📫 How to reach me **vbf2@illinois.edu**</li>
-      </ul>
-    </td>
-
-    <!-- GitHub Streak Stats Image (on the right) -->
-    <td style="width: 50%; vertical-align: top; text-align: right;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vervinfernandes&" alt="vervinfernandes" style="width: 100%; max-width: 300px; height: auto;" />
-    </td>
-  </tr>
-</table>
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vervin-fernandes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vervin-fernandes" height="30" width="40" /></a>
@@ -208,4 +180,4 @@
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vervinfernandes&show_icons=true&locale=en&layout=compact" alt="vervinfernandes" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vervinfernandes&" alt="vervinfernandes" style="width: 300px; height: auto;" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vervinfernandes&" alt="vervinfernandes" style="width: 400px; height: auto;" /></p>
