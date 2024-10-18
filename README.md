@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vervin Fernandes</h1>
 <h3 align="center">A Computer Engineering student studying at the University of Illinois Urbana-Champaign</h3>
 
-- 🔭 I’m currently working on [My personal website](https://vervinfernandes.github.io/personal-website/)
+- 🔭 I’m currently working on __drone from scratch__, __upgrading a toy piano__, __creating a personal website__ and __studying for classes__
 
 - 🌱 I’m currently learning **Tensorflow, Verilog, AWS**
 
