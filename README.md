@@ -30,7 +30,7 @@
     <!--PYTHON--><a href="https://www.python.org" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     <!--BASH--><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+		<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="bash" width="40" height="40"/> </a>
     <!--JAVA--><a href="https://www.java.com" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 	<!--SWIFT--><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
