@@ -1,25 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vervin Fernandes</h1>
 <h3 align="center">A Computer Engineering student studying at the University of Illinois Urbana-Champaign</h3>
 
-- 🔭 I’m currently working on __drone from scratch__, __upgrading a toy piano__, __creating a personal website__ and __studying for classes__
+- 🔭 I’m currently working on __drone from scratch__, __upgrading a toy piano__ and __creating a personal website__
 
-- 🌱 I’m currently learning **Tensorflow, Verilog, AWS**
-
-- 👯 I’m looking to collaborate on [Startups](https://www.bing.com/search?q=make%20a%20startup%20today)
+- 🌱 I’m currently learning **Tensorflow, SystemVerilog, AWS**
 
 - 👨‍💻 All of my projects are available on [my personal website](https://vervinfernandes.github.io/personal-website/)
 
-- 💬 Ask me about **Robotics, Drones, and Cheesecake**
-
-- 📫 How to reach me **vbf2@illinois.edu**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vervin-fernandes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vervin-fernandes" height="30" width="40" /></a>
-<!-- <a href="https://medium.com/@vervinfernandes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ vervinfernandes" height="30" width="40" /></a> -->
-<!-- <a href="https://www.youtube.com/c/vervinfernandes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vervinfernandes" height="30" width="40" /></a> -->
-<a href="https://www.leetcode.com/vervinfernandes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vervinfernandes" height="30" width="40" /></a>
-</p>
+- 💬 Ask me about **Drones and Cheesecake**
 
 <h3 align="left">Languages</h3>
 <p align="left">
