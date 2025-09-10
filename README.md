@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Tensorflow, SystemVerilog, AWS**
 
-- 👨‍💻 All of my projects are available on [my personal website](https://vervinfernandes.github.io/personal-website/)
+- 👨‍💻 All of my projects are available on [my personal website](https://vervinfer.nandes.org/)
 
 - 💬 Ask me about **Drones and Cheesecake**
 
