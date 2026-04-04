@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=vervinfernandes&label=Profile%20Views&color=brightgreen&style=flat)
 <h1 align="center">Hi 👋, I'm Vervin Fernandes</h1>
 <h3 align="center">A Computer Engineering student studying at the University of Illinois Urbana-Champaign</h3>
 
