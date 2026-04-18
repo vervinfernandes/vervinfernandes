@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Vervin Fernandes</h1>
 <h3 align="center">A Computer Engineering student studying at the University of Illinois Urbana-Champaign</h3>
 
-- 🔭 I’m currently working on __drone from scratch__, __upgrading a toy piano__ and __creating a personal website__
+- 🔭 I’m currently working on building **an industry-grade autonomous mobile manipulator from scratch**
 
-- 🌱 I’m currently learning **Tensorflow, SystemVerilog, AWS**
+- 🌱 I’m currently learning **CUDA, Robotics, and LLMs/ML**
 
 - 👨‍💻 All of my projects are available on [my personal website](https://vervinfer.nandes.org/)
 
@@ -14,7 +14,7 @@
 <p align="left">
     <!--CPP--><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-    <!--C--><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <!--C --><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
     <!--PYTHON--><a href="https://www.python.org" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -33,10 +33,9 @@
     <!--REACTJS--><a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
     <!--TAILWINDCSS--><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"height="40"/>
+		<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"height="40"/> </a>
     <!--mySQL--><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
 		<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-	</a>
 </p>
 <h3 align="left">Frameworks & Libraries</h3>
 <p align="left">
@@ -83,4 +82,6 @@
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vervinfernandes&show_icons=true&locale=en&layout=compact" alt="vervinfernandes" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vervinfernandes&" alt="vervinfernandes" style="width: 400px; height: auto;" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vervinfernandes&" alt="vervinfernandes" style="width: 400px; height: auto;" /></p> -->
+
+<p align="center" ><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vervinfernandes&theme=ocean-gradient" alt="GitHub Streak" /></a></p>
